@@ -4,7 +4,6 @@ from phone import Phone
 
 phone1 = Phone("samsung", 8000, 5, 0)
 phone2 = Phone("apple", 80000, 5, 1)
-phone1.price = -900
 print(Phone.all)
 print(Item.all)
 """

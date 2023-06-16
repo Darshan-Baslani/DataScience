@@ -1,0 +1,266 @@
+1686111174957	geckodriver	INFO	Listening on 127.0.0.1:51287
+1686111177602	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51288" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileAMEL7p"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686111177903	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686111178013	Marionette	INFO	Listening on port 51297
+WebDriver BiDi listening on ws://127.0.0.1:51288
+Read port: 51297
+1686111178193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51288/devtools/browser/b6c60282-e8d8-4d6d-b087-1ae8846e77f0
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: can't access property "ownerGlobal", this._element is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: can't access property "ownerGlobal", this._element is null
+1686111667444	Marionette	INFO	Stopped listening on port 51297
+Dynamically enable window occlusion 1
+1686111783133	geckodriver	INFO	Listening on 127.0.0.1:51916
+1686111785826	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileHviscM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686111786142	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686111786223	Marionette	INFO	Listening on port 51925
+WebDriver BiDi listening on ws://127.0.0.1:51917
+Read port: 51925
+1686111786340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale en-US: refresh-profile-instead
+[fluent] Couldn't find a message: refresh-profile-instead
+[dom/l10n] Could not complete initial document translation.
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:51917/devtools/browser/cac7276e-cd66-42dd-806b-182c89898e8e
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: can't access property "ownerGlobal", this._element is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.python.org."
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.sys.mjs, line 178: TypeError: can't access property "ownerGlobal", this._element is null
+1686111883207	Marionette	INFO	Stopped listening on port 51925
+Dynamically enable window occlusion 1
+1686112051536	geckodriver	INFO	Listening on 127.0.0.1:51960
+1686112054581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "51961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileeo4Rld"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686112054879	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686112054988	Marionette	INFO	Listening on port 51969
+WebDriver BiDi listening on ws://127.0.0.1:51961
+Read port: 51969
+1686112055167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51961/devtools/browser/8bc13b8f-9442-4fc7-8a0c-05b710b07bc7
+console.error: (new TypeError("can't access property \"get\", linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686112350412	Marionette	INFO	Stopped listening on port 51969
+Dynamically enable window occlusion 1
+1686112356256	geckodriver	INFO	Listening on 127.0.0.1:52053
+1686112359303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52054" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofilebOFIpf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686112359615	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686112359692	Marionette	INFO	Listening on port 52062
+WebDriver BiDi listening on ws://127.0.0.1:52054
+Read port: 52062
+1686112359794	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale en-US: refresh-profile-instead
+[fluent] Couldn't find a message: refresh-profile-instead
+[dom/l10n] Could not complete initial document translation.
+DevTools listening on ws://127.0.0.1:52054/devtools/browser/522e5304-304a-48e9-87f0-ab5464ff6355
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1686112475630	Marionette	INFO	Stopped listening on port 52062
+Dynamically enable window occlusion 1
+1686112480374	geckodriver	INFO	Listening on 127.0.0.1:52096
+1686112483430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileiDEzem"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686112483719	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686112483827	Marionette	INFO	Listening on port 52105
+WebDriver BiDi listening on ws://127.0.0.1:52097
+Read port: 52105
+1686112484005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52097/devtools/browser/eee1a476-d296-42a3-a8cd-b7a4516298be
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://web.whatsapp.com/, line 2: Error: update chat table failed
+1686113556658	Marionette	INFO	Stopped listening on port 52105
+Dynamically enable window occlusion 1
+1686113564079	geckodriver	INFO	Listening on 127.0.0.1:52273
+1686113567140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52274" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofilejnplpt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686113567511	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686113567618	Marionette	INFO	Listening on port 52282
+WebDriver BiDi listening on ws://127.0.0.1:52274
+Read port: 52282
+1686113567804	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52274/devtools/browser/744bc018-0e2d-4c71-9356-2796e91231ac
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/, line 2: Error: update chat table failed
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 932))
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal6442450945/pagestyle21 (resource://devtools/server/actors/page-style.js:932:5)", "resource://devtools/shared/protocol/Front.js", 383))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686114325769	Marionette	INFO	Stopped listening on port 52282
+Dynamically enable window occlusion 1
+1686115377003	geckodriver	INFO	Listening on 127.0.0.1:53438
+1686115380100	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "53439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileq1dW4z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686115380558	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686115380723	Marionette	INFO	Listening on port 53447
+WebDriver BiDi listening on ws://127.0.0.1:53439
+Read port: 53447
+1686115380972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53439/devtools/browser/3d5aff73-8d71-4e78-a772-7a27ece200ef
+console.error: (new TypeError("can't access property \"get\", linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/, line 2: Error: update chat table failed
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access property \"rawNode\", node is null"
+console.error: (new TypeError("can't access property \"rawNode\", node is null", "resource://devtools/server/actors/page-style.js", 932))
+console.error: (new TypeError("can't access property \"treeChildren\", parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: can't access property "treeChildren", parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+console.error: (new Error("Protocol error (TypeError): can't access property \"rawNode\", node is null from: server0.conn0.windowGlobal6442450945/pagestyle21 (resource://devtools/server/actors/page-style.js:932:5)", "resource://devtools/shared/protocol/Front.js", 383))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686115627365	Marionette	INFO	Stopped listening on port 53447
+Dynamically enable window occlusion 1
+1686116038261	geckodriver	INFO	Listening on 127.0.0.1:54066
+1686116041351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54067" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofilegl9luB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686116041924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686116042092	Marionette	INFO	Listening on port 54075
+WebDriver BiDi listening on ws://127.0.0.1:54067
+Read port: 54075
+1686116042328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54067/devtools/browser/9921e2eb-def2-4118-bb36-ae81e77b0163
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1686116211666	Marionette	INFO	Stopped listening on port 54075
+Dynamically enable window occlusion 1
+1686116293219	geckodriver	INFO	Listening on 127.0.0.1:54306
+1686116296288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54307" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileZHVbyP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686116296714	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686116296833	Marionette	INFO	Listening on port 54318
+WebDriver BiDi listening on ws://127.0.0.1:54307
+Read port: 54318
+1686116297041	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54307/devtools/browser/f057f336-2043-4bcc-a426-0d0e20bdafcc
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1686116335909	Marionette	INFO	Stopped listening on port 54318
+Dynamically enable window occlusion 1
+[Parent 6152, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:787
+1686116991716	geckodriver	INFO	Listening on 127.0.0.1:54517
+1686116994791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "54518" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofile1zp4Rt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686116995106	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686116995219	Marionette	INFO	Listening on port 54528
+WebDriver BiDi listening on ws://127.0.0.1:54518
+Read port: 54528
+1686116995428	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54518/devtools/browser/f2cb7f56-bbfe-4b32-b33d-851a38380bcf
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: uncaught exception: Object
+1686117190830	Marionette	INFO	Stopped listening on port 54528
+Dynamically enable window occlusion 1
+1686118000689	geckodriver	INFO	Listening on 127.0.0.1:55003
+1686118003778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55004" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileEYpJo6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686118004213	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686118004328	Marionette	INFO	Listening on port 55014
+WebDriver BiDi listening on ws://127.0.0.1:55004
+Read port: 55014
+1686118004539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55004/devtools/browser/474e71ae-49da-426f-96bd-ec086c669616
+console.error: (new TypeError("can't access property \"get\", linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1686118745320	Marionette	INFO	Stopped listening on port 55014
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "55216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofileomeh1k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686118744745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686118744884	Marionette	INFO	Listening on port 55226
+WebDriver BiDi listening on ws://127.0.0.1:55216
+Read port: 55226
+1686118745116	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55216/devtools/browser/88542613-55a3-45aa-a6c6-2379ddc18057
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1686118900006	Marionette	INFO	Stopped listening on port 55226
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1686118900080	WebDriver BiDi	ERROR	Failed to stop protocol: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.sys.mjs :: allowAllCerts.disable :: line 51"  data: no] Stack trace: allowAllCerts.disable()@cert.sys.mjs:51
+destroy()@Session.sys.mjs:205
+deleteSession()@WebDriverBiDi.sys.mjs:142
+stop()@WebDriverBiDi.sys.mjs:230
+observe()@resource://gre/modules/AsyncShutdown.sys.mjs:575
+1686141891176	geckodriver	INFO	Listening on 127.0.0.1:52922
+1686141894281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Firefox Developer Edition\\firefox.exe" "--marionette" "--remote-debugging-port" "52923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dcbas\\AppData\\Local\\Temp\\rust_mozprofilepqrQ6O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686141895042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686141895187	Marionette	INFO	Listening on port 52931
+WebDriver BiDi listening on ws://127.0.0.1:52923
+Read port: 52931
+1686141895320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[fluent] Missing message in locale en-US: refresh-profile-instead
+[fluent] Couldn't find a message: refresh-profile-instead
+[dom/l10n] Could not complete initial document translation.
+DevTools listening on ws://127.0.0.1:52923/devtools/browser/1d72487f-c0fe-4f18-9221-31943c44f7f0
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 40: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("can't access property \"getFront\", container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2396))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+1686143496334	Marionette	INFO	Stopped listening on port 52931
+Dynamically enable window occlusion 1

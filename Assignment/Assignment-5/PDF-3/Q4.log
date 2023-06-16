@@ -1,0 +1,82 @@
+INFO:root:The threads have started running
+ERROR:root:Error was found.
+ERROR:root:Error was found.
+INFO:root:The threads have started running
+ERROR:root:Error was found.
+INFO:root:The threads have started running
+ERROR:root:Error was found.
+INFO:root:The threads have started running
+ERROR:root:Error was found.
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Thread have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Thread have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Thread have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Thread have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Thread have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Threads have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Threads have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Threads have been terminated!
+INFO:root:The threads have started running
+INFO:root:The threads have completed running.
+INFO:root:Threads have been terminated!
+INFO:root:The threads have started running
+INFO:root:1 has been printed
+INFO:root:4 has been printed
+INFO:root:9 has been printed
+INFO:root:16 has been printed
+INFO:root:25 has been printed
+INFO:root:36 has been printed
+INFO:root:49 has been printed
+INFO:root:64 has been printed
+INFO:root:1 has been printed
+INFO:root:8 has been printed
+INFO:root:27 has been printed
+INFO:root:The threads have completed running.
+INFO:root:81 has been printed
+INFO:root:100 has been printed
+INFO:root:64 has been printed
+INFO:root:125 has been printed
+INFO:root:216 has been printed
+INFO:root:343 has been printed
+INFO:root:512 has been printed
+INFO:root:729 has been printed
+INFO:root:1000 has been printed
+INFO:root:Threads have been terminated!
+INFO:root:The threads have started running
+INFO:root:1 has been printed
+INFO:root:4 has been printed
+INFO:root:9 has been printed
+INFO:root:16 has been printed
+INFO:root:25 has been printed
+INFO:root:36 has been printed
+INFO:root:49 has been printed
+INFO:root:64 has been printed
+INFO:root:81 has been printed
+INFO:root:1 has been printed
+INFO:root:100 has been printed
+INFO:root:The threads have completed running.
+INFO:root:8 has been printed
+INFO:root:27 has been printed
+INFO:root:64 has been printed
+INFO:root:125 has been printed
+INFO:root:216 has been printed
+INFO:root:343 has been printed
+INFO:root:512 has been printed
+INFO:root:729 has been printed
+INFO:root:1000 has been printed
+INFO:root:Threads have been terminated!

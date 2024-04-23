@@ -6,6 +6,15 @@ phone1 = Phone("samsung", 8000, 5, 0)
 phone2 = Phone("apple", 80000, 5, 1)
 print(Phone.all)
 print(Item.all)
+print(phone2.price)
+xyz = 0
+
+
+def sum(x: int, y: int):
+    return x + y
+
+
+x = sum("ding", "ding")
 """
 Item.instantiate_from_csv()
 print(Item.all)

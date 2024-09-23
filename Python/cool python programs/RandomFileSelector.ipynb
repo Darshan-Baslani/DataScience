@@ -1,0 +1,18 @@
+import random
+import os
+
+path = 'E:\Anime\AttackOnTitan'
+# changing directory
+os.chdir(path)
+
+folder_name = random.choice(os.listdir(path))
+
+season = str(os.path.realpath(folder_name))
+os.chdir(season)
+episode = random.choice(os.listdir(season))
+
+print('Enjoy!')
+
+#play the file
+
+os.system("start " + episode)

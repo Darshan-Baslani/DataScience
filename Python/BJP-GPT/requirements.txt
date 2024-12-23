@@ -1,0 +1,11 @@
+fastapi
+python-dotenv
+python-multipart
+uvicorn
+jinja2
+cohere
+gunicorn
+numpy
+spacy
+gpt_index==0.4.40
+PyPDF2
